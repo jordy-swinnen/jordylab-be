@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+.out/
+build/
+target/
+bin/
+
+# Maven
+/maven-archiver/
+/maven-shared-archive-resources/
+*.log
+
+# Gradle
+.gradle/
+build/
+out/
+*.jar
+*.war
+
+# Spring Boot
+# No Spring-specific files need ignoring; rely on Maven/Gradle and IDE exclusions
+
+# OS and Editor Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo   
